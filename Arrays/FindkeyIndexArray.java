@@ -1,4 +1,4 @@
-public class FindkeyInArray {
+public class FindkeyIndexArray {
     public static void main(String args[]){
         int arr[] = {12,7,25,9,18};
         int target = 9;
