@@ -1,5 +1,5 @@
 import java.util.*;
-public class fifth {
+public class StringIsPalindrome {
     public static void main(String args[]){
         String str = "racecar";
         String str2 = "";

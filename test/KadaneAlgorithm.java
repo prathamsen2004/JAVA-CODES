@@ -13,7 +13,7 @@ maximumSum = max(maximumSum, currentSum)
 
 
 import java.util.*;
-public class eigthth{
+public class KadaneAlgorithm{
     public static void ans(int arr[], int maxsum,int currsum){
         for(int i=0;i<arr.length;i++){
             currsum = currsum + arr[i];
